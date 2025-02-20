@@ -1,2 +1,2 @@
 ## Como inciar
-- dar o comando npm i
+- dar o comando npm i e depois node server.js
