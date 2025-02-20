@@ -1,5 +1,5 @@
 import React from 'react';
-import CrudInterface from './components/CrudInterface';
+import CrudInterface from './components/CrudInterface.jsx';
 
 function App() {
   return (
